@@ -7,7 +7,7 @@ Padrões Implementados:
 - Strategy: Encapsula uma família de algoritmos, tornando-os intercambiáveis.
 - Bridge: Desacopla uma abstração da sua implementação, permitindo que ambas variem independentemente.
 - Test Method: Fornece uma estrutura para definir e executar testes de unidade para componentes de software.
-- 
+  
 Estrutura do Projeto
 
 Cada padrão de projeto é implementado em seu próprio pacote dentro do repositório, permitindo um estudo individualizado de cada padrão.
